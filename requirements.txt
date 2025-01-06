@@ -1,0 +1,8 @@
+ipykernel
+numpy
+pandas
+nltk
+pickle
+scikit-learn
+re
+flask
